@@ -16,18 +16,3 @@ The analyses include:
 - **Survival analysis** (Cox proportional hazards models and Kaplan–Meier curves)
 
 Each section corresponds to a major statistical topic covered in the course, and is implemented in **R** with reproducible code.
-
----
-
-## 📁 Repository Structure
-
-framingham-analysis/
-├─ data/              # (Optional) sample or cleaned data
-├─ scripts/           # main analysis scripts (e.g., GLM, survival, etc.)
-├─ R/                 # supporting functions
-├─ outputs/           # results, figures, and tables
-├─ data-raw/          # code for obtaining or cleaning data
-├─ README.md          # this file
-└─ framingham.Rproj   # RStudio project file
-
----
